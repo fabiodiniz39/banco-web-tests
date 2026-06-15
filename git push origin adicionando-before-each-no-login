@@ -1,0 +1,41 @@
+[33mcommit 2a116cd00d22e0f8f5256a5c4f29843cf6c3c0f4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madicionando-before-each-no-login[m[33m)[m
+Author: fabio <fabio.dab@hotmail.com>
+Date:   Sat Jun 13 14:23:37 2026 -0300
+
+    Adicionei o beforeEach para o acesso a página de login
+
+[33mcommit 7fa97051f468457ba0bb209a54ffa1ccdd97229f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 1328e2b 098d08d
+Author: fabiodiniz39 <66288985+fabiodiniz39@users.noreply.github.com>
+Date:   Thu Jun 11 15:02:07 2026 -0300
+
+    Merge pull request #2 from fabiodiniz39/adicionando-novo-teste-login-falho
+    
+    Adicionei um teste para validar o login com credenciais inválidas
+
+[33mcommit 098d08d69e19c52fba85df7acae0e4b73fc34c73[m[33m ([m[1;31morigin/adicionando-novo-teste-login-falho[m[33m, [m[1;32madicionando-novo-teste-login-falho[m[33m)[m
+Author: fabio <fabio.dab@hotmail.com>
+Date:   Thu Jun 11 14:58:35 2026 -0300
+
+    Adicionei um teste para validar o login com credenciais inválidas
+
+[33mcommit 1328e2b08224e0ad89a81e1dc0ff92c6d5281621[m
+Merge: e8d3160 1259e5c
+Author: fabiodiniz39 <66288985+fabiodiniz39@users.noreply.github.com>
+Date:   Wed Jun 10 12:52:38 2026 -0300
+
+    Merge pull request #1 from fabiodiniz39/projeto-inicial
+    
+    adicionei os arquivos iniciais e o primeiro teste de login
+
+[33mcommit 1259e5c383945b00c22a7b9f589e382337d9e128[m[33m ([m[1;31morigin/projeto-inicial[m[33m, [m[1;32mprojeto-inicial[m[33m)[m
+Author: fabio <fabio.dab@hotmail.com>
+Date:   Wed Jun 10 12:40:27 2026 -0300
+
+    adicionei os arquivos iniciais e o primeiro teste de login
+
+[33mcommit e8d3160600ada26bfcee7c46f9b1769bbc774dd1[m
+Author: fabiodiniz39 <66288985+fabiodiniz39@users.noreply.github.com>
+Date:   Mon Jun 8 13:04:19 2026 -0300
+
+    Initial commit
